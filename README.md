@@ -4,4 +4,6 @@ With so many different companies, organizations and governments developing withi
 
 Evernym:  https://www.evernym.com
 
+Evernym Accelerator:  https://www.evernym.com/accelerator/
+
 WC3 Decentralized Identifier (DID) Github:  https://w3c-ccg.github.io/did-spec/
