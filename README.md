@@ -18,5 +18,7 @@ Wall Street Blockchain Alliance:  https://www.wsba.co/
 
 Oracle Blockchain Challenges:  
 
+Sovrin Main Site (Watch 2 Minute VIDEO):  https://sovrin.org/
+
 TrueUp:  https://www.trueupnow.com/gamify
 
