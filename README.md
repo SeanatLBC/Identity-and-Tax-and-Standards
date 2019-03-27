@@ -16,3 +16,7 @@ WC3 Decentralized Identifier (DID) Github:  https://w3c-ccg.github.io/did-spec/
 
 Wall Street Blockchain Alliance:  https://www.wsba.co/
 
+Oracle Blockchain Challenges:  
+
+TrueUp:  https://www.trueupnow.com/gamify
+
