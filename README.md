@@ -12,6 +12,8 @@ Evernym:  https://www.evernym.com
 
 Evernym Accelerator:  https://www.evernym.com/accelerator/
 
+FATF: Public Statement – Mitigating Risks from Virtual Assets http://www.fatf-gafi.org/publications/fatfrecommendations/documents/regulation-virtual-assets-interpretive-note.html
+
 WC3 Decentralized Identifier (DID) Github:  https://w3c-ccg.github.io/did-spec/
 
 Wall Street Blockchain Alliance:  https://www.wsba.co/
