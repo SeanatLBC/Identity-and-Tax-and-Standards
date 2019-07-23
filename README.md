@@ -6,6 +6,8 @@ As you can see....this area is a little lite so far :-)  This is not due to lack
 
 ABC - The Accounting Blockchain Coalition:  https://accountingblockchain.net/
 
+Accord Project - Open source legal smart contract frameworks (with IBM / R3 / Tezos through Clause / Etc):  https://www.accordproject.org/
+
 AICPA Blockchain Certificates:  https://certificates.aicpastore.com/certificate-programs/blockchain
 
 Evernym:  https://www.evernym.com
