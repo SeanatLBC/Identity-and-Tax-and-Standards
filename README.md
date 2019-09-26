@@ -10,6 +10,8 @@ Accord Project - Open source legal smart contract frameworks (with IBM / R3 / Te
 
 AICPA Blockchain Certificates:  https://certificates.aicpastore.com/certificate-programs/blockchain
 
+Codex - Step by Step Process to Create a Digital Provenance Certificate (Piece of Art):  https://codexprotocol.com/2019/09/26/using-codex-a-step-by-step-guide-from-start-to-finish/
+
 Evernym:  https://www.evernym.com
 
 Evernym Accelerator:  https://www.evernym.com/accelerator/
