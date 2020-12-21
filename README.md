@@ -14,6 +14,8 @@ Codex - Step by Step Process to Create a Digital Provenance Certificate (Piece o
 
 Evernym:  https://www.evernym.com
 
+Check to see if you have hacked date in data dumps [Have I been Pwned]:  https://haveibeenpwned.com/
+
 Evernym Accelerator:  https://www.evernym.com/accelerator/
 
 FATF: Public Statement – Mitigating Risks from Virtual Assets http://www.fatf-gafi.org/publications/fatfrecommendations/documents/regulation-virtual-assets-interpretive-note.html
@@ -21,6 +23,8 @@ FATF: Public Statement – Mitigating Risks from Virtual Assets http://www.fatf-
 WC3 Decentralized Identifier (DID) Github:  https://w3c-ccg.github.io/did-spec/
 
 Wall Street Blockchain Alliance:  https://www.wsba.co/
+
+
 
 Oracle Blockchain Challenges:  
 
