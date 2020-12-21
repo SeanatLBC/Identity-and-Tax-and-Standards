@@ -14,6 +14,15 @@ Codex - Step by Step Process to Create a Digital Provenance Certificate (Piece o
 
 Evernym:  https://www.evernym.com
 
+Security and Hacks:
+
+Website to see if you've been affected by the ledger hack: https://intelx.io/
+How much of your data has already been breached (by other hacks): https://haveibeenpwned.com/
+Jameson's guide to mitigating physical attacks: https://github.com/jlopp/physical-bit...
+One option to get disposable email addresses: https://mailinator.com
+One option to get disposable phone numbers: https://quackr.io/
+One option for TOTP: https://authy.com/
+One option for physical U2F: https://www.yubico.com/
 Check to see if you have hacked date in data dumps [Have I been Pwned]:  https://haveibeenpwned.com/
 
 Evernym Accelerator:  https://www.evernym.com/accelerator/
